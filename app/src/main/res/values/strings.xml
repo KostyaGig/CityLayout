@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CityLayout</string>
+    <string name="time_tv_prototip">16:04</string>
+    <string name="time_tv">15:04</string>
+    <string name="data_tv">25.01.2021</string>
+    <string name="data_tv_prototip">25.01.2021</string>
+    <string name="main_tv_text">Добавить основной текст</string>
+    <string name="news_text">Новости</string>
+    <string name="profile_text">Профиль</string>
+    <string name="main_text">Основное</string>
+    <string name="prototip_app_text">Пртототип приложения</string>
+    <string name="support_project_text">Поддержать проект</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="channel_tm">"@"ev_lent_ev</string>
+</resources>
